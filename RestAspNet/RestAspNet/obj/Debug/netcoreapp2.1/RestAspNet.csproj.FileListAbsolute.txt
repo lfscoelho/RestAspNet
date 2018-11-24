@@ -1,0 +1,15 @@
+C:\Users\lfsco\source\repos\udemy\RestAspNet\RestAspNet\RestAspNet\obj\Debug\netcoreapp2.1\RestAspNet.csproj.CoreCompileInputs.cache
+C:\Users\lfsco\source\repos\udemy\RestAspNet\RestAspNet\RestAspNet\obj\Debug\netcoreapp2.1\RestAspNet.AssemblyInfoInputs.cache
+C:\Users\lfsco\source\repos\udemy\RestAspNet\RestAspNet\RestAspNet\obj\Debug\netcoreapp2.1\RestAspNet.AssemblyInfo.cs
+C:\Users\lfsco\source\repos\udemy\RestAspNet\RestAspNet\RestAspNet\bin\Debug\netcoreapp2.1\RestAspNet.deps.json
+C:\Users\lfsco\source\repos\udemy\RestAspNet\RestAspNet\RestAspNet\bin\Debug\netcoreapp2.1\RestAspNet.runtimeconfig.json
+C:\Users\lfsco\source\repos\udemy\RestAspNet\RestAspNet\RestAspNet\bin\Debug\netcoreapp2.1\RestAspNet.runtimeconfig.dev.json
+C:\Users\lfsco\source\repos\udemy\RestAspNet\RestAspNet\RestAspNet\bin\Debug\netcoreapp2.1\RestAspNet.dll
+C:\Users\lfsco\source\repos\udemy\RestAspNet\RestAspNet\RestAspNet\bin\Debug\netcoreapp2.1\RestAspNet.pdb
+C:\Users\lfsco\source\repos\udemy\RestAspNet\RestAspNet\RestAspNet\obj\Debug\netcoreapp2.1\RestAspNet.csprojAssemblyReference.cache
+C:\Users\lfsco\source\repos\udemy\RestAspNet\RestAspNet\RestAspNet\obj\Debug\netcoreapp2.1\RestAspNet.RazorAssemblyInfo.cache
+C:\Users\lfsco\source\repos\udemy\RestAspNet\RestAspNet\RestAspNet\obj\Debug\netcoreapp2.1\RestAspNet.RazorAssemblyInfo.cs
+C:\Users\lfsco\source\repos\udemy\RestAspNet\RestAspNet\RestAspNet\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\lfsco\source\repos\udemy\RestAspNet\RestAspNet\RestAspNet\obj\Debug\netcoreapp2.1\RestAspNet.RazorTargetAssemblyInfo.cache
+C:\Users\lfsco\source\repos\udemy\RestAspNet\RestAspNet\RestAspNet\obj\Debug\netcoreapp2.1\RestAspNet.dll
+C:\Users\lfsco\source\repos\udemy\RestAspNet\RestAspNet\RestAspNet\obj\Debug\netcoreapp2.1\RestAspNet.pdb
